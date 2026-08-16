@@ -1,0 +1,20 @@
+[project]
+name = "langchain-course"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "black>=26.1.0",
+    "ddgs>=9.14.4",
+    "isort>=7.0.0",
+    "langchain>=1.2.10",
+    "langchain-community>=0.4.2",
+    "langchain-core>=1.5.1",
+    "langchain-ollama>=1.0.1",
+    "langchain-openai>=1.1.9",
+    "langgraph>=1.0.8",
+    "python-dotenv>=1.2.1",
+    "typing-extensions>=4.15.0",
+    "yfinance>=1.5.2",
+]
